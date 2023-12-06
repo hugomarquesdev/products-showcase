@@ -1,0 +1,67 @@
+{
+    "home": { 
+        "banner": {
+            "title": "Somos fábrica,<br/>Criamos soluções",
+            "text": "Somos uma carpintaria especializada no fabrico de cozinhas sediada em Castro Daire.<br/> Asseguramos soluções inteligentes com design, funcionalidade, qualidade e garantia.",
+            "button": "Faça o seu orçamento connosco",
+            "link": "orcamento",
+            "img": "",
+            "alt": "",
+            "video": "videos/3d-planta.mp4",
+            "videoPoster": "images/posters/planta-video-poster.jpg"
+        },
+
+        "quote": {
+            "text": "“Há mais de 30 anos que somos fábrica e criamos soluções.<br/> Um percurso que reflete a nossa experiência e os elevados padrões de qualidade que nos regem.”",
+            "author": "Joaquim costa - CEO da Lar Darte"
+        },
+
+        "grid_images": [
+            {
+                "image": "homepage/cozinhas.png",
+                "alt": "Cozinhas",
+                "title": "Cozinhas",
+                "text": "Cozinhas inovadoras e personalizadas.",
+                "link": "/kitchens",
+                "link_text": "Ver mais"
+            },
+            {
+                "image": "homepage/carpintaria.png",
+                "alt": "Carpintaria",
+                "title": "Carpintaria",
+                "text": "Soluções de carpintaria com design.",
+                "link": "/carpentry",
+                "link_text": "Ver mais"
+            }
+        ],
+
+        "textBanner": {
+            "subtitle": "Qual a nossa missão?",
+            "title": "Criar soluções à sua medida",
+            "text": ""
+        },
+
+        "projects": [
+            {
+                "subtitle": "Embaixador",
+                "title":"Chef Ricardo Costa",
+                "text":"Ricardo Costa é o atual Chef Executivo do Hotel The Yeatman. Surge este ano no Top 100 do ranking internacional “The Best Chef”, sendo candidato ao prémio de melhor Chef do Mundo!",
+                "link":"/chef-ricardo-costa",
+                "btn": "Conheça o nosso Embaixador",
+                "name":"Chef Ricardo Costa",
+                "video": "videos/rc-lardarte.mp4",
+                "poster": "images/posters/rc-lardarte.jpg"
+            },
+            {
+                "subtitle": "Comércio",
+                "title":"Clínicas de<br/> Medicina Dentária",
+                "text":"Executamos soluções à medida de qualquer projeto. Somos os responsáveis pelas carpintarias das clínicas de Aveiro, Águeda, Porto e Viseu.",
+                "link":"/projects/dentalclinic",
+                "btn":"Saiba mais sobre este projeto",
+                "name":"Carreira Dental Clinic - Porto",
+                "image": "homepage/clinica.jpg",
+                "alt": "clinica"
+            }
+        ]
+    }
+}

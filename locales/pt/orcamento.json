@@ -1,0 +1,72 @@
+{
+    "orcamento": { 
+        "content": {
+            "step": "Passo ",
+            "stepOf": " de 5",
+            "close": "Fechar X", 
+            "title": "Este é o primeiro passo para concretizar o seu sonho", 
+            "text": "Na Lar Darte juntamos a inovação aos seus projetos. Basta preencher o formulário e selecionar a partir da lista de serviços que disponibilizamos. Entraremos em contacto para lhe dar um orçamento personalizado."
+        },
+
+        "form": {
+            "btnContinuar": "Continuar",
+            "btnRetroceder": "Voltar atrás",
+            "btnFinalizar": "Finalizar",
+            "warning": "Selecione pelo menos uma opção.", 
+            "warningData": "Todos os campos são obrigatórios."
+        },
+
+        "step1": {
+            "title": "O que procura?",
+            "subtitle": "Selecione as opções mais adequadas.",
+            "options": {
+                "option1": "Renovação Parcial da Cozinha",
+                "option2": "Renovação Total da Cozinha",
+                "option3": "Renovação de Outras Divisões",
+                "option4": "Mobiliário"
+            }
+        },
+
+        "step2": {
+            "title": "Qual o seu orçamento?",
+            "subtitle": "Selecione a opção mais adequada.",
+            "options": {
+                "option1": "Menos de 2000€",
+                "option2": "Entre 2000€ e 6000€",
+                "option3": "Mais de 6000€"
+            }
+        },
+
+        "step3": {
+            "title": "Quando pretende iniciar o seu projeto?",
+            "subtitle": "Selecione a opção mais adequada.",
+            "options": {
+                "option1": "Em Menos de 3 meses",
+                "option2": "Mais de 3 meses",
+                "option3": "Em planeamento. Sem data"
+            }
+        },
+
+        "step4": {
+            "title": "Preencha os seus dados",
+            "subtitle": "Este formulário de contacto corresponde ao procedimento normal de envio de um email diretamente para nossa caixa de correio. Os seus dados não são armazenados nem utilizados para qualquer outro fim.",
+            "options": {
+                "name": "Nome",
+                "tel": "Telefone",
+                "email": "Email",
+                "address": "Código Postal"
+            }
+        },
+
+        "step5": {
+            "title": "Se necessário, descreva em poucas palavras o que pretende no seu projeto",
+            "description": "Descrição"
+        },
+
+        "step6": {
+            "title": "O seu pedido de orçamento foi enviado com sucesso.",
+            "subtitle": "Este foi o primeiro passo para concretizar o seu sonho.",
+            "success": "Continuar para o site"
+        }
+    }
+}

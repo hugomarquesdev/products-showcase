@@ -1,0 +1,120 @@
+{
+    "kitchens": {
+        "banner": {
+            "title": "Cozinhas inovadoras<br/> e personalizadas",
+            "video": "videos/ricardo-costa.mp4",
+            "videoPoster": "images/posters/ricardo-costa-video-poster.jpg"
+        },
+
+        "textBanner": {
+            "subtitle": "Cozinhas Lar Darte",
+            "title": "30 anos a aliar design e qualidade",
+            "text": "Na Lar Darte <b>desenhamos, projetamos e produzimos</b> a cozinha que corresponde às suas necessidades.<br/> Desde cozinhas rústicas a cozinhas modernas, com ou sem ilhas, até mobiliário e carpintaria com design.",
+            "btn": "Faça o seu orçamento connosco",
+            "link": "orcamento"
+        },
+
+        "gallery": {
+            "info": {
+                "subtitle": "Projetos Personalizados",
+                "title":"Cozinhas de qualidade <br/>à sua medida",
+                "text":"Somos especialistas no fabrico de cozinhas residenciais e comerciais de alta qualidade.",
+                "link":"/projects",
+                "btn": "Ver galeria completa",
+                "name":"Projetos Particulares e Para Negócios",
+                "video": "videos/rc-lardarte.mp4",
+                "poster": "images/posters/rc-lardarte.jpg"
+            },
+            "images": [
+                {
+                    "image": "cozinhas/gallery/01.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/02.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/03.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/04.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/05.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/06.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/07.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/08.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/09.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/10.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/11.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/13.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/14.jpg",
+                    "alt": "Cozinha"
+                },
+                {
+                    "image": "cozinhas/gallery/15.jpg",
+                    "alt": "Cozinha"
+                }
+                
+            ]
+        },
+
+        "steps": {
+            "title": "Como tornamos os seus Sonhos em realidade?",
+            "step": [
+                {
+                    "num": "01",
+                    "title": "Medidas",
+                    "text": "A nossa equipa irá deslocar-se até ao local para tirar as medições necessárias e preparar, posteriormente, os desenhos técnicos e contabilizar os custos de produção."
+                },
+                {
+                    "num": "02",
+                    "title": "Modelação 3D e Orçamentação",
+                    "text": "Desenhamos cozinhas e fazemos modelação 3D conforme a necessidade do projeto. Asseguramos que o parecer do nosso projeto está sempre em sintonia com os ideais dos clientes. A concessão do projeto 3D é somente feita após a aprovação dos clientes. Só depois é que procedemos à orçamentação do projeto."
+                },
+                {
+                    "num": "03",
+                    "title": "Desenho Técnicos",
+                    "text": "Executamos desenhos técnicos já com as medidas finais e cotas aquando da obtenção de todas as infra-estruturas de cozinhas. Através de uma imagem “esqueleto da cozinha”, os clientes têm uma melhor noção de como vai ficar o interior do espaço."
+                },
+                {
+                    "num": "04",
+                    "title": "Produção",
+                    "text": "Somos especialistas no fabrico de cozinhas por medida de elevada qualidade. Utilizamos a mais recente tecnologia e os métodos avançados de produção. Durante a fase de produção o cliente já decidiu quais os materiais e acabamentos que pretende para o projeto."
+                },
+                {
+                    "num": "05",
+                    "title": "Instalação",
+                    "text": "Após a produção da cozinha dirijimo-nos até ao local pretendido para proceder à instalação da mesma. Levamos todos os equipamentos necessários e realizamos uma higienização à posteriori."
+                }
+            ]
+        }
+    }
+}

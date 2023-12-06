@@ -1,0 +1,1115 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "image": "cozinhas/carousel/modelo-b.jpg",
+            "alt": "Modelo B",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo B",
+                "title": "Cozinha com lacado branco mate / pinho maciço.",
+                "description": "Tampo em Thesize Cement, Revestimento de Parede em Thesize Cement, Eletrodomésticos Teka e Sistema de abertura Tip-On Blum.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-b/modelo-b-1.jpg",
+                        "alt": "Modelo B"
+                    },
+                    {
+                        "image": "cozinhas/modelo-b/modelo-b-2.jpg",
+                        "alt": "Modelo B"
+                    },
+                    {
+                        "image": "cozinhas/modelo-b/modelo-b-3.jpg",
+                        "alt": "Modelo B"
+                    },
+                    {
+                        "image": "cozinhas/modelo-b/modelo-b-4.jpg",
+                        "alt": "Modelo B"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "image": "cozinhas/carousel/modelo-d.jpg",
+            "alt": "Modelo D",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo D",
+                "title": "Cozinha em Folheado Polysandro, com acabamento alto brilho.",
+                "description": "Tampos e contorno de móveis em Corian Glacier White, Puxador Asa 177, Electrodomésticos Teka e Cuba em Corian Glacier White.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-d/modelo-d-1.jpg",
+                        "alt": "Modelo D"
+                    },
+                    {
+                        "image": "cozinhas/modelo-d/modelo-d-2.jpg",
+                        "alt": "Modelo D"
+                    },
+                    {
+                        "image": "cozinhas/modelo-d/modelo-d-3.jpg",
+                        "alt": "Modelo D"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "image": "cozinhas/carousel/modelo-e.jpg",
+            "alt": "Modelo E",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo E",
+                "title": "Cozinha lacada Branco Mate.",
+                "description": "Tampos em Dekton Domoos, Revestimento de Parede em Dekton Domoos, Eletrodomésticos Teka e Puxador Tip-On Blum.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-e/modelo-e-1.jpg",
+                        "alt": "Modelo E"
+                    },
+                    {
+                        "image": "cozinhas/modelo-e/modelo-e-2.jpg",
+                        "alt": "Modelo E"
+                    },
+                    {
+                        "image": "cozinhas/modelo-e/modelo-e-3.jpg",
+                        "alt": "Modelo E"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "image": "cozinhas/carousel/modelo-g.jpg",
+            "alt": "Modelo G",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo G",
+                "title": "Cozinha em Fénix NTM Preto Mate.",
+                "description": "Tampos em Dekton Kairos, Eletrodomésticos Kuppersbusch, Sistema de exaustão Elica e Puxadores em perfil de gola lacado branco.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-g/modelo-g-1.jpg",
+                        "alt": "Modelo G"
+                    },
+                    {
+                        "image": "cozinhas/modelo-g/modelo-g-2.jpg",
+                        "alt": "Modelo G"
+                    },
+                    {
+                        "image": "cozinhas/modelo-g/modelo-g-3.jpg",
+                        "alt": "Modelo G"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "image": "cozinhas/carousel/modelo-i.jpg",
+            "alt": "Modelo I",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo I",
+                "title": "Cozinha lacada Branco Mate.",
+                "description": "Tampos em Dekton Zenith, Revestimento de Parede Dekton Zenith, Eletrodomésticos Siemens e Puxador Tip-On Blum.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-i/modelo-i-1.jpg",
+                        "alt": "Modelo I"
+                    },
+                    {
+                        "image": "cozinhas/modelo-i/modelo-i-2.jpg",
+                        "alt": "Modelo I"
+                    },
+                    {
+                        "image": "cozinhas/modelo-i/modelo-i-3.jpg",
+                        "alt": "Modelo I"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "image": "cozinhas/carousel/modelo-k.jpg",
+            "alt": "Modelo K",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo K",
+                "title": "Cozinha em Termolacado Cuzco Oro.",
+                "description": "Tampo em Silestone Riverbed 2cm Polido, Sem puxador – Sistema de abertura Servo-Drive – Blum – (sistema de abertura automática) e Eletrodomésticos Kuppersbusch.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-k/modelo-k-1.jpg",
+                        "alt": "Modelo K"
+                    },
+                    {
+                        "image": "cozinhas/modelo-k/modelo-k-2.jpg",
+                        "alt": "Modelo K"
+                    },
+                    {
+                        "image": "cozinhas/modelo-k/modelo-k-3.jpg",
+                        "alt": "Modelo K"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "image": "cozinhas/carousel/modelo-l.jpg",
+            "alt": "Modelo L",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo L",
+                "title": "Cozinha em Perfil de alumínio “A” c/ puxador incluído e vidro lacado extra branco.",
+                "description": "Tampos, revestimento de parede e balcão em Silestone White Platinum 2cm polido e Eletrodomésticos Bosch.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-l/modelo-l-1.jpg",
+                        "alt": "Modelo L"
+                    },
+                    {
+                        "image": "cozinhas/modelo-l/modelo-l-2.jpg",
+                        "alt": "Modelo L"
+                    },
+                    {
+                        "image": "cozinhas/modelo-l/modelo-l-3.jpg",
+                        "alt": "Modelo L"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "image": "cozinhas/carousel/modelo-n.jpg",
+            "alt": "Modelo N",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo N",
+                "title": "Cozinha lacada Cinza / Branco Brilhante.",
+                "description": "Tampos em Silestone Helix, Revestimento de Parede em Silestone Helix, Eletrodomésticos Siemens, Sistema de exaustão de teto Pando e Puxador perfil de gola lacado branco / Servo-Drive Blum.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-n/modelo-n-1.jpg",
+                        "alt": "Modelo N"
+                    },
+                    {
+                        "image": "cozinhas/modelo-n/modelo-n-2.jpg",
+                        "alt": "Modelo N"
+                    },
+                    {
+                        "image": "cozinhas/modelo-n/modelo-n-3.jpg",
+                        "alt": "Modelo N"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "image": "cozinhas/carousel/modelo-o.jpg",
+            "alt": "Modelo O",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo O",
+                "title": "Cozinha lacada Branco alto brilho.",
+                "description": "Tampo em Corian Glacier White c/ cuba incluída, Puxador em perfil de gola lacado branco, Eletrodomésticos Kuppersbusch e Revestimento de parede em vidro impresso.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-o/modelo-o-1.jpg",
+                        "alt": "Modelo O"
+                    },
+                    {
+                        "image": "cozinhas/modelo-o/modelo-o-2.jpg",
+                        "alt": "Modelo O"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "image": "cozinhas/carousel/modelo-q.jpg",
+            "alt": "Modelo Q",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo Q",
+                "title": "Cozinha em Lacado alto brilho, cor branco.",
+                "description": "Folheado Nogueira Americana com acabamento alto brilho, Tampos em Silestone Branco Zeus 2cm, Revestimento de Parede em Silestone Branco Zeus 1,2cm, Puxador em perfil de gola lacado branco, Eletrodomésticos Bosch e Lava-louça e Misturadora “Domusmor”.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-q/modelo-q-1.jpg",
+                        "alt": "Modelo Q"
+                    },
+                    {
+                        "image": "cozinhas/modelo-q/modelo-q-2.jpg",
+                        "alt": "Modelo Q"
+                    },
+                    {
+                        "image": "cozinhas/modelo-q/modelo-q-3.jpg",
+                        "alt": "Modelo Q"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "image": "cozinhas/carousel/modelo-r.jpg",
+            "alt": "Modelo R",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo R",
+                "title": "Cozinha em Termolaminado ref. L026/E047.",
+                "description": "Tampos em Dekton Vegha, Revestimento de Parede em Dekton Vegha, Eletrodomésticos Smeg e Sistema de abertura eletrónico Servo-Drive Blum.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-r/modelo-r-1.jpg",
+                        "alt": "Modelo R"
+                    },
+                    {
+                        "image": "cozinhas/modelo-r/modelo-r-2.jpg",
+                        "alt": "Modelo R"
+                    },
+                    {
+                        "image": "cozinhas/modelo-r/modelo-r-3.jpg",
+                        "alt": "Modelo R"
+                    },
+                    {
+                        "image": "cozinhas/modelo-r/modelo-r-4.jpg",
+                        "alt": "Modelo R"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "image": "cozinhas/carousel/modelo-s.jpg",
+            "alt": "Modelo S",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo S",
+                "title": "Cozinha lacada Camel Mate / Syncron Muratti.",
+                "description": "Tampos em Dekton Kadum, Eletrodomésticos Bosch e Sistema de abertura eletrónico Servo-Drive (Blum).",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-s/modelo-s-1.jpg",
+                        "alt": "Modelo S"
+                    },
+                    {
+                        "image": "cozinhas/modelo-s/modelo-s-2.jpg",
+                        "alt": "Modelo S"
+                    },
+                    {
+                        "image": "cozinhas/modelo-s/modelo-s-3.jpg",
+                        "alt": "Modelo S"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "image": "cozinhas/carousel/modelo-w.jpg",
+            "alt": "Modelo W",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo W",
+                "title": "Cozinha Lacada Branco Sujo Brilho.",
+                "description": "Tampo Dekton Halo, Eletrodomésticos Siemens e Sistema de abertura electrónico Servo-Drive Blum.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-w/modelo-w-1.jpg",
+                        "alt": "Modelo W"
+                    },
+                    {
+                        "image": "cozinhas/modelo-w/modelo-w-2.jpg",
+                        "alt": "Modelo W"
+                    },
+                    {
+                        "image": "cozinhas/modelo-w/modelo-w-3.jpg",
+                        "alt": "Modelo W"
+                    },
+                    {
+                        "image": "cozinhas/modelo-w/modelo-w-4.jpg",
+                        "alt": "Modelo W"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "image": "cozinhas/carousel/modelo-x.jpg",
+            "alt": "Modelo X",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo X",
+                "title": "Cozinha em Perfil “H” lacado preto com vidro lacado preto.",
+                "description": "Sem puxadores, sistema de abertura Tic-Tac, Tampo em Silestone Abyss Leather 2cm e Eletrodomésticos Teka.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-x/modelo-x-1.jpg",
+                        "alt": "Modelo X"
+                    },
+                    {
+                        "image": "cozinhas/modelo-x/modelo-x-2.jpg",
+                        "alt": "Modelo X"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "image": "cozinhas/carousel/modelo-y.jpg",
+            "alt": "Modelo Y",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo Y",
+                "title": "Cozinha em Termolaminado Listado Cinza escuro / Branco.",
+                "description": "Tampos em Silestone Branco Zeus 2cm Polido, Balcão em Folha de Madeira Teka Sem puxadores, sistema de abertura, Tic-Tac + Servo Drive Blum (sistema de abertura automática) e Eletrodomésticos Teka Expression.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-y/modelo-y-1.jpg",
+                        "alt": "Modelo Y"
+                    },
+                    {
+                        "image": "cozinhas/modelo-y/modelo-y-2.jpg",
+                        "alt": "Modelo Y"
+                    },
+                    {
+                        "image": "cozinhas/modelo-y/modelo-y-3.jpg",
+                        "alt": "Modelo Y"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "image": "cozinhas/carousel/modelo-z.jpg",
+            "alt": "Modelo Z",
+            "type":"kitchen",
+            "info": {
+                "model": "Modelo Z",
+                "title": "Cozinha lacada preto mate.",
+                "description": "Tampos em silestone Carbono, Revestimento de parede em Silestone Carbono, Eletrodomésticos Kuppersbusch e Puxador 1/2 Esq. Rasgado na porta.",
+                "images": [
+                    {
+                        "image": "cozinhas/modelo-z/modelo-z-1.jpg",
+                        "alt": "Modelo Z"
+                    },
+                    {
+                        "image": "cozinhas/modelo-z/modelo-z-2.jpg",
+                        "alt": "Modelo Z"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "image": "carpintaria/carousel/carreira-aveiro.jpg",
+            "alt": "Clínicas Dentárias",
+            "type":"carpentry",
+            "info": {
+                "model": "Clínicas Dentárias",
+                "title": "Carreira Dental Clinic - Porto | Águeda | Aveiro | Viseu.",
+                "description": "Executamos soluções à medida de qualquer projeto para habitação, comércio ou serviços e com qualquer tipo de acabamento. A qualidade dos trabalhos é uma garantia.",
+                "images": [
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-1-porto.jpg",
+                        "alt": "Carreira Dental Clinic Porto"
+                    },
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-agueda.jpg",
+                        "alt": "Carreira Dental Clinic Águeda"
+                    },
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-aveiro.jpg",
+                        "alt": "Carreira Dental Clinic Aveiro"
+                    },
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-viseu.jpg",
+                        "alt": "Carreira Dental Clinic Viseu"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "image": "carpintaria/carousel/carreira-viseu.jpg",
+            "alt": "Clínicas Dentárias",
+            "type":"carpentry",
+            "info": {
+                "model": "Clínicas Dentárias",
+                "title": "Carreira Dental Clinic - Porto | Águeda | Aveiro | Viseu.",
+                "description": "Executamos soluções à medida de qualquer projeto para habitação, comércio ou serviços e com qualquer tipo de acabamento. A qualidade dos trabalhos é uma garantia.",
+                "images": [
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-1-porto.jpg",
+                        "alt": "Carreira Dental Clinic Porto"
+                    },
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-agueda.jpg",
+                        "alt": "Carreira Dental Clinic Águeda"
+                    },
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-aveiro.jpg",
+                        "alt": "Carreira Dental Clinic Aveiro"
+                    },
+                    {
+                        "image": "carpintaria/clinica-dentaria/carreira-viseu.jpg",
+                        "alt": "Carreira Dental Clinic Viseu"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "image": "carpintaria/carousel/obra-1-1.jpg",
+            "alt": "Obra com Painéis, Portas e Pisos",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Obra com Painéis, Portas e Pisos.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-1.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-2.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-3.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-4.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-5.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-6.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "image": "carpintaria/carousel/obra-1-4.jpg",
+            "alt": "Obra com Painéis, Portas e Pisos",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Obra com Painéis, Portas e Pisos.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-1.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-2.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-3.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-4.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-5.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-6.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "image": "carpintaria/carousel/obra-3-1.jpg",
+            "alt": "Obra com Painéis, Portas e Pisos",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Obra com Painéis, Portas e Pisos.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-1.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-2.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-3.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-4.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "image": "carpintaria/carousel/armario.jpg",
+            "alt": "Obra com Painéis, Portas e Pisos",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Obra com Painéis, Portas e Pisos.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-1.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-2.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-3.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-4.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-5.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-6.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "image": "carpintaria/carousel/portas-02.jpg",
+            "alt": "Obra com Painéis, Portas e Pisos",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Obra com Painéis, Portas e Pisos.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-1.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-2.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-3.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-4.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-5.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    },
+                    {
+                        "image": "carpintaria/obra-paineis-portas-pisos/obra-1-6.jpg",
+                        "alt": "Obra com Painéis, Portas e Pisos"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "image": "carpintaria/carousel/pisos.jpg",
+            "alt": "Pisos e Escadas",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Pisos e Escadas.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/pisos-escadas/carpintaria-header-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-2-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-3-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-4-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-5-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "image": "carpintaria/carousel/pisos-escadas.jpg",
+            "alt": "Pisos e Escadas",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Pisos e Escadas.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/pisos-escadas/carpintaria-header-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-2-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-3-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-4-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-5-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "image": "carpintaria/carousel/escadas-01.jpg",
+            "alt": "Pisos e Escadas",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Pisos e Escadas.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/pisos-escadas/carpintaria-header-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-2-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-3-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-4-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    },
+                    {
+                        "image": "carpintaria/pisos-escadas/obra-5-1.jpg",
+                        "alt": "Pisos e Escadas"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "image": "carpintaria/carousel/porta.jpg",
+            "alt": "Portas",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Portas.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/portas/porta-carvalho-1-1.jpg",
+                        "alt": "Porta em Carvalho",
+                        "description": "Porta em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-carvalho-2-1.jpg",
+                        "alt": "Porta em Carvalho",
+                        "description": "Porta em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-carvalho-3-1.jpg",
+                        "alt": "Porta em Carvalho",
+                        "description": "Porta em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-carvalho-4-1.jpg",
+                        "alt": "Porta em Carvalho",
+                        "description": "Porta em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-carvalho-5-velatura-1.jpg",
+                        "alt": "Porta em Carvalho",
+                        "description": "Porta em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-cerejeira-americana.jpg",
+                        "alt": "Porta em Cerejeira Americana",
+                        "description": "Porta em Cerejeira Americana"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-correr-dupla-1.jpg",
+                        "alt": "Porta de Correr Dupla",
+                        "description": "Porta de Correr Dupla"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-correr-lacada-1.jpg",
+                        "alt": "Porta de Correr Lacada",
+                        "description": "Porta de Correr Lacada"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-dupla-abrir.jpg",
+                        "alt": "Porta Dupla de Abrir",
+                        "description": "Porta Dupla de Abrir"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-entrada-lisa.jpg",
+                        "alt": "Porta Entrada Lisa",
+                        "description": "Porta Entrada Lisa"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-faia-1.jpg",
+                        "alt": "Porta em Faia",
+                        "description": "Porta em Faia"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-faia-2-1.jpg",
+                        "alt": "Porta em Faia",
+                        "description": "Porta em Faia"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-faia-3-1.jpg",
+                        "alt": "Porta em Faia",
+                        "description": "Porta em Faia"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-faia-4-zebrano-1.jpg",
+                        "alt": "Porta em Faia",
+                        "description": "Porta em Faia"
+                    },
+                    {
+                        "image": "carpintaria/portas/porta-mogno-sapelly.jpg",
+                        "alt": "Porta em Mogno ou Sapelly",
+                        "description": "Porta em Mogno ou Sapelly"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "image": "carpintaria/carousel/roupeiro-personalizado.jpg",
+            "alt": "Roupeiro",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Roupeiros por Medida.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-personalizado.jpg",
+                        "alt": "Closet Personalizado",
+                        "description": "Closet Personalizado"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-termolacado-1.jpg",
+                        "alt": "Roupeiro em Termolacado Magnólia",
+                        "description": "Roupeiro em Termolacado Magnólia"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-termolacado-2.jpg",
+                        "alt": "Roupeiro em Termolacado Magnólia",
+                        "description": "Roupeiro em Termolacado Magnólia"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-carvalho.jpg",
+                        "alt": "Roupeiro em Carvalho",
+                        "description": "Roupeiro em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-carvalho-2.jpg",
+                        "alt": "Roupeiro em Carvalho",
+                        "description": "Roupeiro em Carvalho"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 28,
+            "image": "carpintaria/carousel/roupeiros-carvalho.jpg",
+            "alt": "Roupeiro",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Roupeiros por Medida.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-personalizado.jpg",
+                        "alt": "Closet Personalizado",
+                        "description": "Closet Personalizado"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-termolacado-1.jpg",
+                        "alt": "Roupeiro em Termolacado Magnólia",
+                        "description": "Roupeiro em Termolacado Magnólia"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-termolacado-2.jpg",
+                        "alt": "Roupeiro em Termolacado Magnólia",
+                        "description": "Roupeiro em Termolacado Magnólia"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-carvalho.jpg",
+                        "alt": "Roupeiro em Carvalho",
+                        "description": "Roupeiro em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-carvalho-2.jpg",
+                        "alt": "Roupeiro em Carvalho",
+                        "description": "Roupeiro em Carvalho"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 29,
+            "image": "carpintaria/carousel/roupeiro-termolacado-1.jpg",
+            "alt": "Roupeiro",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Roupeiros por Medida.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-personalizado.jpg",
+                        "alt": "Closet Personalizado",
+                        "description": "Closet Personalizado"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-termolacado-1.jpg",
+                        "alt": "Roupeiro em Termolacado Magnólia",
+                        "description": "Roupeiro em Termolacado Magnólia"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-termolacado-2.jpg",
+                        "alt": "Roupeiro em Termolacado Magnólia",
+                        "description": "Roupeiro em Termolacado Magnólia"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-carvalho.jpg",
+                        "alt": "Roupeiro em Carvalho",
+                        "description": "Roupeiro em Carvalho"
+                    },
+                    {
+                        "image": "carpintaria/roupeiros/roupeiro-carvalho-2.jpg",
+                        "alt": "Roupeiro em Carvalho",
+                        "description": "Roupeiro em Carvalho"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 30,
+            "image": "carpintaria/carousel/wc-1-min-scaled.jpg",
+            "alt": "Móveis de Casa de Banho",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Móveis de Casa de Banho.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-1-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-2-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-3-min",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-4-min-scaled",
+                        "alt": "Móveis de Casa de Banho"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 31,
+            "image": "carpintaria/carousel/wc-2-min-scaled.jpg",
+            "alt": "Móveis de Casa de Banho",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Móveis de Casa de Banho.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-1-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-2-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-3-min",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-4-min-scaled",
+                        "alt": "Móveis de Casa de Banho"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 32,
+            "image": "carpintaria/carousel/wc-3-min.jpg",
+            "alt": "Móveis de Casa de Banho",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Móveis de Casa de Banho.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-1-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-2-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-3-min",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-4-min-scaled",
+                        "alt": "Móveis de Casa de Banho"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 33,
+            "image": "carpintaria/carousel/wc-4-min-scaled.jpg",
+            "alt": "Móveis de Casa de Banho",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Móveis de Casa de Banho.",
+                "description": "Fabricamos soluções globais de carpintaria: portas, escadas, painéis, armários roupeiro, móveis de casa de banho, caixilharias, tetos, entre outras. É fácil, você sonha, nós executamos.",
+                "images": [
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-1-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-2-min-scaled.jpg",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-3-min",
+                        "alt": "Móveis de Casa de Banho"
+                    },
+                    {
+                        "image": "carpintaria/moveis-casa-banho/wc-4-min-scaled",
+                        "alt": "Móveis de Casa de Banho"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 34,
+            "image": "carpintaria/carousel/woodland-1.jpg",
+            "alt": "Woodland Village",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Woodland Village.",
+                "description": "A Lar Darte é parceira na construção da aldeia turística Woodland Village em Ayant nos Alpes Suíços.",
+                "images": [
+                    {
+                        "image": "carpintaria/woodland/woodland-1.jpg",
+                        "alt": "Woodland Village"
+                    },
+                    {
+                        "image": "carpintaria/woodland/woodland-2.jpg",
+                        "alt": "Woodland Village"
+                    },
+                    {
+                        "image": "carpintaria/woodland/woodland-3.jpg",
+                        "alt": "Woodland Village"
+                    },
+                    {
+                        "image": "carpintaria/woodland/woodland-4.jpg",
+                        "alt": "Woodland Village"
+                    }
+                    
+                ]
+            }
+        },
+        {
+            "id": 35,
+            "image": "carpintaria/carousel/woodland-2.jpg",
+            "alt": "Woodland Village",
+            "type":"carpentry",
+            "info": {
+                "model": "",
+                "title": "Woodland Village.",
+                "description": "A Lar Darte é parceira na construção da aldeia turística Woodland Village em Ayant nos Alpes Suíços.",
+                "images": [
+                    {
+                        "image": "carpintaria/woodland/woodland-1.jpg",
+                        "alt": "Woodland Village"
+                    },
+                    {
+                        "image": "carpintaria/woodland/woodland-2.jpg",
+                        "alt": "Woodland Village"
+                    },
+                    {
+                        "image": "carpintaria/woodland/woodland-3.jpg",
+                        "alt": "Woodland Village"
+                    },
+                    {
+                        "image": "carpintaria/woodland/woodland-4.jpg",
+                        "alt": "Woodland Village"
+                    }
+                ]
+            }
+        }         
+    ]
+}

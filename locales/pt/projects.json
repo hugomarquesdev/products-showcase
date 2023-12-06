@@ -1,0 +1,373 @@
+{
+    "projects": { 
+        "banner": {
+            "title": "Projetos"
+        },
+
+        "list": [
+            {
+                "subtitle": "Comércio",
+                "title":"Clínicas de<br/> Medicina Dentária",
+                "text":"Esta é a Carreira Dental do Porto, uma marca de referência na medicina dentária em Portugal.",
+                "link":"/projects/dentalclinic",
+                "btn":"Saiba mais sobre este projeto",
+                "name":"Carreira Dental Clinic - Porto",
+                "image": "homepage/clinica.jpg",
+                "alt": "clinica"
+            },
+            {
+                "subtitle": "Comércio",
+                "title":"Woodland Village<br/> Alpes Suiços",
+                "text":"A Lar Darte é parceira na construção desta vila turística.",
+                "link":"/projects/woodland-village",
+                "btn":"Saiba mais sobre este projeto",
+                "name":"Woodland Village",
+                "image": "projects/woodland/04.jpg",
+                "alt": "woodland village"
+            }
+        ],
+
+        "project": {
+            "dentalclinic": {
+                "title": "Clínicas de<br/> Medicina Dentária",
+                "text": "Executamos soluções à medida de qualquer projeto. <br/>Somos os responsáveis pelas carpintarias das clínicas de Aveiro, Águeda, Porto e Viseu.",
+                "content": [
+                    {
+                        "image": "projects/dentalclinic/05.jpg",
+                        "alt": "Clínica Dentária",
+                        "width": 6,
+                        "markers": [
+                            {
+                                "title": "Portas",
+                                "x": "35%",
+                                "y": "40%"
+                            },
+                            {
+                                "title": "Estante Aberta lacado alto brilho",
+                                "x": "54%",
+                                "y": "37%"
+                            },
+                            {
+                                "title": "Balcão Diamond",
+                                "x": "85%",
+                                "y": "52%"
+                            }
+                        ]
+                    },
+                    {
+                        "image": "projects/dentalclinic/01.jpg",
+                        "alt": "Clínica Dentária",
+                        "width": 6,
+                        "markers": [
+                            {
+                                "title": "Porta com dobradiça oculta lacada alto brilho",
+                                "x": "5%",
+                                "y": "20%"
+                            },
+                            {
+                                "title": "Balcão Atendimento 'Diamond' lacado alto brilho",
+                                "x": "35%",
+                                "y": "55%"
+                            },
+                            {
+                                "title": "Painel de parede lacado alto brilho",
+                                "x": "35%",
+                                "y": "32%"
+                            },
+                            {
+                                "title": "Estante Aberta lacado alto brilho",
+                                "x": "61%",
+                                "y": "32%"
+                            },
+                            {
+                                "title": "Porta Pivot lacado alto brilho",
+                                "x": "73%",
+                                "y": "39%"
+                            }
+                        ]
+                    },
+                    {
+                        "image": "projects/dentalclinic/07.jpg",
+                        "alt": "Clínica Dentária",
+                        "width": 6,
+                        "markers": [
+                            {
+                                "title": "Estantes",
+                                "x": "8%",
+                                "y": "31%"
+                            },
+                            {
+                                "title": "Balcão Diamond",
+                                "x": "37%",
+                                "y": "63%"
+                            },
+                            {
+                                "title": "Painel",
+                                "x": "53%",
+                                "y": "36%"
+                            }
+                        ]
+                    },
+                    {
+                        "title":"Balcão",
+                        "text": "O Balcão de Atendimento Diamond é inspirado na forma irregular da jóia. Este móvel lacado a alto brilho é o elemento perfeito para enquadrar o espaço clínico e atender pacientes de forma cómoda.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Porta",
+                        "text": "Porta lacada a alto brilho, com pormenor de dobradiça oculta de modo a enquadrar o espaço de forma elegante e discreta.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Painel",
+                        "text": "Um painel de parede contemporâneo, bastante espaçoso e lacado a alto brilho. Uma escolha elegante que garante um sistema de organização oculto e discreto.",
+                        "width": 2
+                    },
+                    {
+                        "image": "projects/dentalclinic/02.jpg",
+                        "alt": "Clínica Dentária",
+                        "width": 3,
+                        "markers": [
+                            {
+                                "title": "Móvel consultório lacado mate",
+                                "x": "27%",
+                                "y": "61%"
+                            }
+                        ]
+                    },
+                    {
+                        "image": "projects/dentalclinic/03.jpg",
+                        "alt": "Clínica Dentária",
+                        "width": 3,
+                        "markers": [
+                            {
+                                "title": "Móvel consultório lacado mate",
+                                "x": "56%",
+                                "y": "45%"
+                            }
+                        ]
+                    },
+                    {
+                        "title":"Estante",
+                        "text": "Estante com estrutura aberta, lacada a alto brilho e com iluminação embutida, o complemento ideal para terminar a decoração da sala de espera.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Porta",
+                        "text": "Porta Pivot da sala de espera lacada a alto brilho, enquadrada de forma harmoniosa no meio das estantes com estrutura aberta. Uma porta contemporânea e elegante, que se enquadra perfeitamente na clínica.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Móvel",
+                        "text": "Móvel de consultório, lacado a alto brilho, com um sistema de arrumação extenso, desenhado para responder às necessidades da clínica de medicina dentária.",
+                        "width": 2
+                    }
+                ]
+            },
+            "woodland": {
+                "title": "Woodland Village<br/> Alpes Suiços",
+                "text": "A Lar Darte é parceira na construção da vila turística Woodland Village em Ayant nos Alpes Suíços.",
+                "video": "../videos/woodland.mp4",
+                "videoPoster": "../images/posters/woodland-video-poster.jpg",
+                "content": [
+                    {
+                        "image": "projects/woodland/02.jpg",
+                        "alt": "Woodland Village",
+                        "width": 6,
+                        "markers": [
+                            {
+                                "title": "Woodland Village",
+                                "x": "30%",
+                                "y": "85%"
+                            }
+                        ]
+                    },
+                    {
+                        "title":"37 chalets de montanha desenhados ao milímetro",
+                        "text": "O empreendimento é composto por 37 chalets de montanha no qual a Lar Darte foi responsável por toda a carpintaria interior: móveis de cozinha, roupeiros, móveis de WC, portas, entre outros.",
+                        "width": 6
+                    },
+                    {
+                        "image": "projects/woodland/03.jpg",
+                        "alt": "Woodland Village",
+                        "width": 2,
+                        "height": 1
+                    },
+                    {
+                        "image": "projects/woodland/05.jpg",
+                        "alt": "Woodland Village",
+                        "width": 2,
+                        "height": 2,
+                        "markers": [
+                            {
+                                "title": "Móvel WC lacado mate",
+                                "x": "63%",
+                                "y": "73%"
+                            }
+                        ]
+                    },
+                    {
+                        "image": "projects/woodland/06.jpg",
+                        "alt": "Woodland Village",
+                        "width": 2,
+                        "height": 2
+                    },
+                    {
+                        "image": "projects/woodland/04.jpg",
+                        "alt": "Woodland Village",
+                        "width": 2,
+                        "height": 1
+                    },
+                    {
+                        "title":"Móvel WC",
+                        "text": "Móvel de WC, lacado a preto mate, desenhado para enquadrar o espaço de forma harmoniosa e garantir um sistema de organização completo.",
+                        "width": 3
+                    },
+                    {
+                        "title":"Banca da Cozinha",
+                        "text": "Uma bancada em granito negro de zimbabue mate, resistente a qualquer risco, de fácil limpeza e manutenção.",
+                        "width": 3
+                    },
+                    {
+                        "image": "projects/woodland/07.jpg",
+                        "alt": "Woodland Village",
+                        "width": 4,
+                        "markers": [
+                            {
+                                "title": "Móvel TV lacado mate",
+                                "x": "37%",
+                                "y": "64%"
+                            },
+                            {
+                                "title": "Portas",
+                                "x": "60%",
+                                "y": "35%"
+                            }
+                        ]
+                    },
+                    {
+                        "image": "projects/woodland/08.jpg",
+                        "alt": "Woodland Village",
+                        "width": 2,
+                        "markers": [
+                            {
+                                "title": "Móveis de Cozinha em Termolaminado",
+                                "x": "26%",
+                                "y": "56%"
+                            },
+                            {
+                                "title": "Frigorífico Embutido",
+                                "x": "40%",
+                                "y": "33%"
+                            }
+                        ]
+                    },
+                    {
+                        "title":"Móvel TV",
+                        "text": "Móvel de Televisão, lacado a preto mate, bastante espaçoso, com a estética perfeita para contemplar qualquer sala de estar.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Móveis Cozinha",
+                        "text": "Móveis de Cozinha a termolaminado, resistentes a qualquer intervenção e de fácil manutenção. Concebidos para responder às necessidades dos seus moradores, disponibilizam várias soluções de arrumação.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Frigorífico embutido",
+                        "text": "Frigorífico embutido em termolaminado, que mescla de forma ideal com o restante espaço de cozinha, garantindo um ambiente clean e moderno.",
+                        "width": 2
+                    },
+                    {
+                        "image": "projects/woodland/09.jpg",
+                        "alt": "Woodland Village",
+                        "width": 3,
+                        "markers": [
+                            {
+                                "title": "Móveis de Cozinha em Termolaminado",
+                                "x": "35%",
+                                "y": "38%"
+                            },
+                            {
+                                "title": "Frigorífico Embutido",
+                                "x": "65%",
+                                "y": "50%"
+                            },
+                            {
+                                "title": "Granito Negro Zimbabue Mate",
+                                "x": "50%",
+                                "y": "76%"
+                            }
+                        ]
+                    },
+                    {
+                        "image": "projects/woodland/10.jpg",
+                        "alt": "Woodland Village",
+                        "width": 3,
+                        "markers": [
+                            {
+                                "title": "Cama lacada mate",
+                                "x": "25%",
+                                "y": "53%"
+                            },
+                            {
+                                "title": "Roupeiro com 2 portas de correr com soft-close lacado mate",
+                                "x": "86%",
+                                "y": "33%"
+                            }
+                        ]
+                    },
+                    {
+                        "title":"Península Cozinha",
+                        "text": "Península de móvel termolaminado, com tampo em granito negro de zimbabue mate. Integra o espaço de forma equilibrada e é de fácil limpeza.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Cabeceira de Cama",
+                        "text": "Cabeceira de Cama lacada a preto mate, desenhada para emoldurar de forma sublime a peça central do quarto e complementar os restantes elementos decorativos.",
+                        "width": 2
+                    },
+                    {
+                        "title":"Roupeiros",
+                        "text": "Roupeiro lacado a preto mate, com duas portas de correr soft-close, ideal para completar o espaço e criar um quarto relaxante e confortável.",
+                        "width": 2
+                    }
+                ]
+            }
+        },
+
+        "textBanner": {
+            "subtitle": "PARCEIROS NO SEU NEGÓCIO",
+            "title": "ESTAMOS COMPROMETIDOS <br/>A REALIZAR O SEU PROJETO",
+            "carpentry": [
+                {
+                    "btn": "Portas",
+                    "link": "/"
+                },
+                {
+                    "btn": "Roupeiros",
+                    "link": "/"
+                },
+                {
+                    "btn": "Pavimentos",
+                    "link": "/"
+                },
+                {
+                    "btn": "Escadas",
+                    "link": "/"
+                },
+                {
+                    "btn": "Painéis",
+                    "link": "/"
+                },
+                {
+                    "btn": "Estantes",
+                    "link": "/"
+                },
+                {
+                    "btn": "Móveis",
+                    "link": "/"
+                }
+            ]
+        }
+    }
+}

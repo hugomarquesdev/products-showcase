@@ -1,0 +1,161 @@
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin'), url('/fonts/cabin/cabin-regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin'), url('/fonts/cabin/cabin-bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin'), url('/fonts/cabin/cabin-semi-bold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin'), url('/fonts/cabin/cabin-medium.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Exo';
+    src: local('Exo'), url('/fonts/exo/exo-regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Exo';
+    src: local('Exo'), url('/fonts/exo/exo-light.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Exo';
+    src: local('Exo'), url('/fonts/exo/exo-extralight.ttf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Exo';
+    src: local('Exo'), url('/fonts/exo/exo-bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Exo';
+    src: local('Exo'), url('/fonts/exo/exo-semibold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Exo';
+    src: local('Exo'), url('/fonts/exo/exo-lightitalic.ttf');
+    font-weight: 100;
+    font-style: italic;
+}
+  
+/* WebKit/Blink Browsers */
+::selection {
+    background: #1b1c22;
+    color: #eeefed;
+}
+
+/* Gecko Browsers */
+::-moz-selection {
+    background: #1b1c22;
+    color: #eeefed;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  font-kerning: normal;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
+  word-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #1b1c22;
+  font-size:14px;
+  font-family:'Exo', sans-serif;
+  background-color:#eeefed;
+}
+
+@media only screen and (max-width:700px){
+    html{
+        font-size:13px;
+    }
+}
+
+body {
+  margin: 0;
+}
+
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    text-decoration:none;
+    color:#1b1c22;
+}
+a:active, 
+a:focus, 
+a:focus-within, 
+a:focus-visible,
+a:hover, 
+a:visited,
+div:focus
+{
+    outline-width: 0;
+    outline:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+p{
+    margin:0;
+}
+
+h1, 
+h2,
+h3,
+h4, 
+h5,
+h6{
+    margin:0;
+    font-weight:normal;
+}
+
+textarea {
+    resize: none;
+}
