@@ -1,0 +1,36 @@
+{
+  "about": [
+    {
+      "name": "Our Factory",
+      "title": "Every detail is meticulously crafted, reflecting our commitment to quality and sustainability.",
+      "text": "Our state-of-the-art factory where craftsmanship meets innovation. Nestled in Craftsville, our facility is a hub of precision and creativity. Equipped with cutting-edge machinery and operated by skilled artisans, it's here that our bespoke carpentry interiors come to life.",
+      "img": "about/about-1-02.jpg",
+      "img2": "about/about-1.jpg",
+      "alt": "Factory"
+    },
+    {
+      "name": "Our mission",
+      "title": "Redefine living spaces through the artistry of bespoke carpentry interiors",
+      "text": "“Committed to craftsmanship, sustainability, and personalized design, we strive to create timeless pieces that elevate homes, reflecting the unique stories and styles of our clients. Our aim is to blend innovation with tradition, making every piece a testament to quality, functionality, and the enduring beauty of wood.”, Elena Silva, CEO.",
+      "img": "about/about-2.jpg",
+      "img2": "about/about-2-02.jpg",
+      "alt": "Work"
+    },
+    {
+      "name": "Solutions for Individuals",
+      "title": "Personalized journey with Dojo Designs.",
+      "text": "We offer bespoke carpentry interiors, tailoring each creation to your unique taste and lifestyle. Experience the joy of living in spaces crafted just for you, where every piece tells a story of artistry and elegance",
+      "img": "about/about-4-001.jpg",
+      "img2": "about/about-4-002.jpg",
+      "alt": "Kitchens"
+    },
+    {
+      "name": "Business Solutions",
+      "title": "Our business solutions revolve around providing tailored carpentry interior products for commercial spaces.",
+      "text": "With a focus on quality, sustainability, and personalized design, we elevate commercial spaces to reflect the unique ethos of each business, fostering a conducive and inspiring work atmosphere.",
+      "img": "about/about-3.jpg",
+      "img2": "about/about-3-02.jpg",
+      "alt": "Projects"
+    }
+  ]
+}

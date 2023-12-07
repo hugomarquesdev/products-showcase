@@ -1,0 +1,85 @@
+{
+  "header": {
+    "language": "Language: ",
+    "pages": [
+      {
+        "page": "About Us",
+        "link": "/about"
+      },
+      {
+        "page": "Kitchens",
+        "link": "/kitchens"
+      },
+      {
+        "page": "Projects",
+        "link": "/projects"
+      }
+    ],
+    "contacts": "Contacts & Estimate",
+    "contactsLink": "/contact",
+    "secondaryMenu": [
+      {
+        "text": "123 Woodcraft Lane - Craftsville, Artisia 54321",
+        "link": "https://github.com/hugomarquesdev"
+      },
+      {
+        "text": "info@dojo.com",
+        "link": "https://github.com/hugomarquesdev"
+      },
+      {
+        "text": "+351 123 456 789",
+        "link": "https://github.com/hugomarquesdev"
+      }
+    ]
+  },
+  "footer": {
+    "testimonial": {
+      "subtitle": "Ask us for an estimate",
+      "title": "We design the best solution for your space",
+      "btn": "Make your request here",
+      "link": "orcamento",
+      "bg": "homepage/armazem.gif",
+      "alt": "armazem"
+    },
+    "copyright": [
+      {
+        "text": "DOJO DESIGNS ©",
+        "link": "https://github.com/hugomarquesdev",
+        "outbound": true
+      },
+      {
+        "text": "created by: hugomarquesdev",
+        "link": "https://github.com/hugomarquesdev",
+        "outbound": true
+      }
+    ],
+    "pages": [
+      {
+        "text": "About us",
+        "link": "/about"
+      },
+      {
+        "text": "Kitchens",
+        "link": "/kitchens"
+      },
+      {
+        "text": "Projects",
+        "link": "/projects"
+      }
+    ],
+    "social": [
+      {
+        "text": "Facebook",
+        "link": "https://github.com/hugomarquesdev"
+      },
+      {
+        "text": "Instagram",
+        "link": "https://github.com/hugomarquesdev"
+      },
+      {
+        "text": "Youtube",
+        "link": "https://github.com/hugomarquesdev"
+      }
+    ]
+  }
+}

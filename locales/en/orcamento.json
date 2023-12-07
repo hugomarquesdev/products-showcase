@@ -1,0 +1,72 @@
+{
+  "orcamento": {
+    "content": {
+      "step": "Step ",
+      "stepOf": " of 5",
+      "close": "Close X",
+      "title": "This is the first step to making your dream come true",
+      "text": "We add innovation to your projects. Simply fill out the form and select from the list of services we provide. We will contact you to give you a personalized quote."
+    },
+
+    "form": {
+      "btnContinuar": "Continue",
+      "btnRetroceder": "Back",
+      "btnFinalizar": "Finish",
+      "warning": "Select at least one option.",
+      "warningData": "All fields are mandatory."
+    },
+
+    "step1": {
+      "title": "What are you looking for?",
+      "subtitle": "Select the most suitable options.",
+      "options": {
+        "option1": "Partial Kitchen Renovation",
+        "option2": "Total Kitchen Renovation",
+        "option3": "Renovation of Other Divisions",
+        "option4": "Furniture"
+      }
+    },
+
+    "step2": {
+      "title": "What's your budget?",
+      "subtitle": "Select the most suitable options.",
+      "options": {
+        "option1": "Less than 2000€",
+        "option2": "Between 2000€ and 6000€",
+        "option3": "More than 6000€"
+      }
+    },
+
+    "step3": {
+      "title": "When do you want to start your project?",
+      "subtitle": "Select the most suitable options.",
+      "options": {
+        "option1": "In less than 3 months",
+        "option2": "More than 3 months",
+        "option3": "In planning. No date"
+      }
+    },
+
+    "step4": {
+      "title": "Fill in your details",
+      "subtitle": "This contact form corresponds to the normal procedure of sending an email directly to our mailbox. Your data is not stored or used for any other purpose.",
+      "options": {
+        "name": "Name",
+        "tel": "Phone",
+        "email": "Email",
+        "address": "Postal Code"
+      }
+    },
+
+    "step5": {
+      "title": "If necessary, describe in a few words what you want in your project",
+      "description": "Description"
+    },
+
+    "step6": {
+      "title": "Your quote request has been sent successfully.",
+      "subtitle": "This was the first step towards realizing his dream.",
+      "success": "Continue to website"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "home": {
+    "banner": {
+      "title": "Crafting Homes,<br/>Crafting Dreams",
+      "text": "Crafting bespoke carpentry interiors for homes. Elevate your space with our artisanal designs, blending beauty, functionality, and timeless craftsmanship.",
+      "button": "Make your estimate with us",
+      "link": "orcamento",
+      "img": "",
+      "alt": "",
+      "video": "videos/3d-planta.mp4",
+      "videoPoster": "images/posters/planta-video-poster.jpg"
+    },
+
+    "quote": {
+      "text": "“We believe in crafting more than furniture; we craft experiences. Each piece tells a story of meticulous artistry, personalization, and the timeless beauty of wood.”",
+      "author": "Elena Silva - CEO"
+    },
+
+    "grid_images": [
+      {
+        "image": "homepage/cozinhas.jpg",
+        "alt": "Kitchens",
+        "title": "Kitchens",
+        "text": "Inovative and personalized kitchens.",
+        "link": "/kitchens",
+        "link_text": "See more"
+      },
+      {
+        "image": "homepage/carpintaria.jpg",
+        "alt": "Projects",
+        "title": "Projects",
+        "text": "Our projects.",
+        "link": "/projects",
+        "link_text": "See more"
+      }
+    ],
+
+    "textBanner": {
+      "subtitle": "What's our mission?",
+      "title": "Create tailor-made solutions",
+      "text": ""
+    },
+
+    "projects": [
+      {
+        "subtitle": "Business",
+        "title": "Professional Presentation<br/>Studio",
+        "text": "Transforming a living space into a bespoke haven, our latest project seamlessly blends artisanal craftsmanship with functional elegance.",
+        "link": "/projects/dentalclinic",
+        "btn": "Know more about this project",
+        "name": "Professional Presentation Studio",
+        "image": "homepage/clinica.jpg",
+        "alt": "clinica"
+      }
+    ]
+  }
+}

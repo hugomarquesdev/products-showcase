@@ -1,9 +1,9 @@
 {
-  "name": "Lardarte",
+  "name": "Dojo",
   "private": true,
-  "description": "Somos fábrica, Criamos soluções.",
+  "description": "Crafting Homes, Crafting Dreams",
   "version": "1.0.0",
-  "author": "@hugomarquesdev | Invisual Branding Solutions",
+  "author": "@hugomarquesdev",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },

@@ -1,0 +1,58 @@
+{
+  "contact": {
+    "banner": {
+      "title": "Crafting Homes,<br/>Crafting Dreams",
+      "text": "",
+      "button": "",
+      "link": "",
+      "img": "",
+      "alt": "",
+      "video": "videos/3d-planta.mp4",
+      "videoPoster": "images/posters/planta-video-poster.jpg"
+    },
+
+    "form": {
+      "title": "SEND US YOUR MESSAGE,<br/>WE PROMISE TO BE SHORT",
+      "image": "contact/form.jpg",
+      "alt": "Contact",
+      "data": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "contact": "Contact",
+        "message": "Message",
+        "submit": "Send Message",
+        "files": "Attach Files",
+        "warning": "This contact form corresponds to the normal procedure of sending an email directly to our mailbox. Your data is not stored or used for any other purpose."
+      },
+      "success": {
+        "title": "Thank you for contacting us ✓",
+        "description": "We have received your email and will respond as soon as possible."
+      }
+    },
+
+    "textBanner": {
+      "subtitle": "WHAT'S OUR MISSION?",
+      "title": "CREATE TAILOR-MADE SOLUTIONS",
+      "text": ""
+    },
+
+    "contact": {
+      "title": "Contacts",
+      "data": [
+        {
+          "text": "123 Woodcraft Lane - Craftsville, <br/>Artisia 54321",
+          "link": "https://github.com/hugomarquesdev"
+        },
+        {
+          "text": "info@dojo.com",
+          "link": "https://github.com/hugomarquesdev"
+        },
+        {
+          "text": "+351 123 456 789",
+          "link": "https://github.com/hugomarquesdev"
+        }
+      ]
+    }
+  }
+}

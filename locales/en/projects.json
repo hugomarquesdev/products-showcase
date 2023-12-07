@@ -1,0 +1,371 @@
+{
+  "projects": {
+    "banner": {
+      "title": "Projects"
+    },
+
+    "list": [
+      {
+        "subtitle": "Business",
+        "title": "Dental Clinic<br/> Project",
+        "text": "A testament to modern dental care, featuring cutting-edge design, soothing interiors, and state-of-the-art equipment.",
+        "link": "/projects/dentalclinic",
+        "btn": "Know more about this project",
+        "name": "Modern Dental Wellness Hub",
+        "image": "homepage/clinica.jpg",
+        "alt": "clinic"
+      },
+      {
+        "subtitle": "Business",
+        "title": "Village Building<br/> Project",
+        "text": "This village embodies a harmonious blend of modern comfort and environmental consciousness.",
+        "link": "/projects/woodland-village",
+        "btn": "Know more about this project",
+        "name": "A Sustainable Village Retreat",
+        "image": "projects/woodland/00.jpg",
+        "alt": "village"
+      }
+    ],
+
+    "project": {
+      "dentalclinic": {
+        "title": "Dental Clinic<br/> Project",
+        "text": "* the following images are just used as an example for this portfolio. they belong to <b>carreiradentalclinic.pt</b>",
+        "content": [
+          {
+            "image": "projects/dentalclinic/05.jpg",
+            "alt": "Dental Clinic",
+            "width": 6,
+            "markers": [
+              {
+                "title": "Doors",
+                "x": "35%",
+                "y": "40%"
+              },
+              {
+                "title": "High gloss lacquered open bookcase",
+                "x": "54%",
+                "y": "37%"
+              },
+              {
+                "title": "Diamond Counter",
+                "x": "85%",
+                "y": "52%"
+              }
+            ]
+          },
+          {
+            "image": "projects/dentalclinic/01.jpg",
+            "alt": "Dental Clinic",
+            "width": 6,
+            "markers": [
+              {
+                "title": "Door with concealed hinge in high gloss lacquer",
+                "x": "5%",
+                "y": "20%"
+              },
+              {
+                "title": "High gloss lacquered 'Diamond' Service Counter",
+                "x": "35%",
+                "y": "55%"
+              },
+              {
+                "title": "High gloss lacquered wall panel",
+                "x": "35%",
+                "y": "32%"
+              },
+              {
+                "title": "High gloss lacquered open bookcase",
+                "x": "61%",
+                "y": "32%"
+              },
+              {
+                "title": "High gloss lacquered Pivot door",
+                "x": "73%",
+                "y": "39%"
+              }
+            ]
+          },
+          {
+            "image": "projects/dentalclinic/07.jpg",
+            "alt": "Dental Clinic",
+            "width": 6,
+            "markers": [
+              {
+                "title": "Bookcases",
+                "x": "8%",
+                "y": "31%"
+              },
+              {
+                "title": "Diamond Counter",
+                "x": "37%",
+                "y": "63%"
+              },
+              {
+                "title": "Panel",
+                "x": "53%",
+                "y": "36%"
+              }
+            ]
+          },
+          {
+            "title": "Counter",
+            "text": "The Diamond Service Desk is inspired by the irregular shape of the jewel. This high-gloss lacquered furniture is the perfect element to frame the clinical space and serve patients comfortably.",
+            "width": 2
+          },
+          {
+            "title": "Door",
+            "text": "High-gloss lacquered door, with hidden hinge detail to frame the space in an elegant and discreet way.",
+            "width": 2
+          },
+          {
+            "title": "Panel",
+            "text": "A contemporary wall panel, very spacious and high gloss lacquered. An elegant choice that guarantees a hidden and discreet organization system.",
+            "width": 2
+          },
+          {
+            "image": "projects/dentalclinic/02.jpg",
+            "alt": "Dental Clinic",
+            "width": 3,
+            "markers": [
+              {
+                "title": "Matt lacquered office furniture",
+                "x": "27%",
+                "y": "61%"
+              }
+            ]
+          },
+          {
+            "image": "projects/dentalclinic/03.jpg",
+            "alt": "Dental Clinic",
+            "width": 3,
+            "markers": [
+              {
+                "title": "Matt lacquered office furniture",
+                "x": "56%",
+                "y": "45%"
+              }
+            ]
+          },
+          {
+            "title": "Bookcase",
+            "text": "Bookcase with an open structure, high gloss lacquered and with built-in lighting, the ideal complement to complete the decor of the waiting room.",
+            "width": 2
+          },
+          {
+            "title": "Door",
+            "text": "Pivot door in the waiting room lacquered in high gloss, harmoniously framed in the middle of the shelves with an open structure. A contemporary and elegant door that fits perfectly into the clinic.",
+            "width": 2
+          },
+          {
+            "title": "Furniture",
+            "text": "Office furniture, high gloss lacquered, with an extensive storage system, designed to meet the needs of the dental clinic.",
+            "width": 2
+          }
+        ]
+      },
+      "woodland": {
+        "title": "Village Building<br/> Project",
+        "text": "* the following images are just used as an example for this portfolio. they belong to <b>woodlandvillage.ch</b>",
+        "content": [
+          {
+            "image": "projects/woodland/02.jpg",
+            "alt": "Village Building Project",
+            "width": 6,
+            "markers": [
+              {
+                "title": "Village Building Project",
+                "x": "30%",
+                "y": "85%"
+              }
+            ]
+          },
+          {
+            "title": "37 mountain chalets designed to the millimeter",
+            "text": "The development consists of 37 mountain chalets with all the interior carpentry: kitchen furniture, wardrobes, bathroom furniture, doors, among others.",
+            "width": 6
+          },
+          {
+            "image": "projects/woodland/03.jpg",
+            "alt": "Village Building Project",
+            "width": 2,
+            "height": 1
+          },
+          {
+            "image": "projects/woodland/05.jpg",
+            "alt": "Village Building Project",
+            "width": 2,
+            "height": 2,
+            "markers": [
+              {
+                "title": "Matt lacquered WC cabinet",
+                "x": "63%",
+                "y": "73%"
+              }
+            ]
+          },
+          {
+            "image": "projects/woodland/06.jpg",
+            "alt": "Village Building Project",
+            "width": 2,
+            "height": 2
+          },
+          {
+            "image": "projects/woodland/04.jpg",
+            "alt": "Village Building Project",
+            "width": 2,
+            "height": 1
+          },
+          {
+            "title": "WC cabinet",
+            "text": "WC cabinet, lacquered in matt black, designed to frame the space harmoniously and guarantee a complete organization system.",
+            "width": 3
+          },
+          {
+            "title": "Kitchen Counter",
+            "text": "A matte black Zimbabwe granite countertop, resistant to any scratch, easy to clean and maintain.",
+            "width": 3
+          },
+          {
+            "image": "projects/woodland/07.jpg",
+            "alt": "Village Building Project",
+            "width": 4,
+            "markers": [
+              {
+                "title": "Matt lacquered TV cabinet",
+                "x": "37%",
+                "y": "64%"
+              },
+              {
+                "title": "Doors",
+                "x": "60%",
+                "y": "35%"
+              }
+            ]
+          },
+          {
+            "image": "projects/woodland/08.jpg",
+            "alt": "Village Building Project",
+            "width": 2,
+            "markers": [
+              {
+                "title": "Thermolaminate Kitchen Furniture",
+                "x": "26%",
+                "y": "56%"
+              },
+              {
+                "title": "Built-in Refrigerator",
+                "x": "40%",
+                "y": "33%"
+              }
+            ]
+          },
+          {
+            "title": "TV cabinet",
+            "text": "Television cabinet, lacquered in matt black, quite spacious, with the perfect aesthetic to complement any living room.",
+            "width": 2
+          },
+          {
+            "title": "Móveis Cozinha",
+            "text": "Thermolaminate kitchen furniture, resistant to any intervention and easy to maintain. Designed to meet the needs of its residents, they offer various storage solutions.",
+            "width": 2
+          },
+          {
+            "title": "Built-in Refrigerator",
+            "text": "Built-in refrigerator in thermolaminate, which blends ideally with the rest of the kitchen space, ensuring a clean and modern environment.",
+            "width": 2
+          },
+          {
+            "image": "projects/woodland/09.jpg",
+            "alt": "Village Building Project",
+            "width": 3,
+            "markers": [
+              {
+                "title": "Thermolaminate Kitchen Furniture",
+                "x": "35%",
+                "y": "38%"
+              },
+              {
+                "title": "Built-in Refrigerator",
+                "x": "65%",
+                "y": "50%"
+              },
+              {
+                "title": "Matte Zimbabwe Black Granite",
+                "x": "50%",
+                "y": "76%"
+              }
+            ]
+          },
+          {
+            "image": "projects/woodland/10.jpg",
+            "alt": "Village Building Project",
+            "width": 3,
+            "markers": [
+              {
+                "title": "Matt lacquered bed",
+                "x": "25%",
+                "y": "53%"
+              },
+              {
+                "title": "Wardrobe with 2 sliding doors with soft-close matt lacquered",
+                "x": "86%",
+                "y": "33%"
+              }
+            ]
+          },
+          {
+            "title": "Peninsula Kitchen",
+            "text": "Thermo-laminated furniture peninsula, with a matt Zimbabwe black granite top. It integrates the space in a balanced way and is easy to clean.",
+            "width": 2
+          },
+          {
+            "title": "Headboard",
+            "text": "Bed headboard lacquered in matt black, designed to sublimely frame the central piece of the room and complement the remaining decorative elements.",
+            "width": 2
+          },
+          {
+            "title": "Wardrobes",
+            "text": "Wardrobe lacquered in matt black, with two soft-close sliding doors, ideal for completing the space and creating a relaxing and comfortable bedroom.",
+            "width": 2
+          }
+        ]
+      }
+    },
+
+    "textBanner": {
+      "subtitle": "PARTNERS IN YOUR BUSINESS",
+      "title": "WE ARE COMMITTED <br/>TO CARRYING OUT YOUR PROJECT",
+      "carpentry": [
+        {
+          "btn": "Doors",
+          "link": "/"
+        },
+        {
+          "btn": "Wardrobes",
+          "link": "/"
+        },
+        {
+          "btn": "Flooring",
+          "link": "/"
+        },
+        {
+          "btn": "Stairs",
+          "link": "/"
+        },
+        {
+          "btn": "Panels",
+          "link": "/"
+        },
+        {
+          "btn": "Bookcases",
+          "link": "/"
+        },
+        {
+          "btn": "Furniture",
+          "link": "/"
+        }
+      ]
+    }
+  }
+}

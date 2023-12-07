@@ -15,10 +15,10 @@ const Seo = ({ description, lang, meta, title }) => {
     graphql`
       query {
         site {
-            siteMetadata {
-              title
-              description
-            }
+          siteMetadata {
+            title
+            description
+          }
         }
       }
     `
@@ -56,8 +56,8 @@ const Seo = ({ description, lang, meta, title }) => {
           content: `summary`,
         },
         {
-            name: `twitter:creator`,
-            content: site.siteMetadata?.author || ``,
+          name: `twitter:creator`,
+          content: site.siteMetadata?.author || ``,
         },
         {
           name: `twitter:title`,
@@ -73,7 +73,7 @@ const Seo = ({ description, lang, meta, title }) => {
 }
 
 Seo.defaultProps = {
-  lang: `pt`,
+  lang: `en`,
   meta: [],
   description: ``,
 }

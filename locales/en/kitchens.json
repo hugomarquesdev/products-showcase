@@ -1,0 +1,87 @@
+{
+  "kitchens": {
+    "banner": {
+      "title": "Innovative and personalized<br/>kitchens",
+      "video": "videos/kitchen-presentation.mp4",
+      "videoPoster": "images/posters/kitchen-presentation.jpg"
+    },
+
+    "textBanner": {
+      "subtitle": "Dojo Designs kitchens",
+      "title": "Design and Quality",
+      "text": "Celebrate the art of living with Dojo Designs, where design meets unparalleled quality. Our creations are born from a <b>fusion of timeless craftsmanship and contemporary innovation</b>.<br/>Meticulously crafted using the finest materials, each piece is a testament to our commitment to excellence. ",
+      "btn": "Make your estimate with us",
+      "link": "orcamento"
+    },
+
+    "gallery": {
+      "info": {
+        "subtitle": "Personalized Projects",
+        "title": "Quality kitchens<br/>tailored to you",
+        "text": "Our specialty lies in crafting bespoke kitchens that blend functionality with exquisite design.",
+        "link": "/projects",
+        "btn": "See full gallery",
+        "name": "Individual and Business Projects",
+        "video": "videos/rc-lardarte.mp4",
+        "poster": "images/posters/rc-lardarte.jpg"
+      },
+      "images": [
+        {
+          "image": "cozinhas/gallery/01.jpg",
+          "alt": "Kitchen"
+        },
+        {
+          "image": "cozinhas/gallery/02.jpg",
+          "alt": "Kitchen"
+        },
+        {
+          "image": "cozinhas/gallery/03.jpg",
+          "alt": "Kitchen"
+        },
+        {
+          "image": "cozinhas/gallery/04.jpg",
+          "alt": "Kitchen"
+        },
+        {
+          "image": "cozinhas/gallery/05.jpg",
+          "alt": "Kitchen"
+        },
+        {
+          "image": "cozinhas/gallery/06.jpg",
+          "alt": "Kitchen"
+        }
+      ]
+    },
+
+    "steps": {
+      "title": "Dreams come true",
+      "step": [
+        {
+          "num": "01",
+          "title": "Measures",
+          "text": "Our meticulous measuring process ensures that every piece fits seamlessly into your space. From initial assessments to detailed measurements, our skilled artisans take precise steps to understand and cater to your unique requirements."
+        },
+        {
+          "num": "02",
+          "title": "3D Modeling and Budgeting",
+          "text": "Our skilled designers utilize cutting-edge technology to provide a lifelike preview of your bespoke carpentry interiors. This not only allows you to visualize the final result but also ensures that every detail aligns with your vision. Additionally, our transparent budgeting process empowers you to make informed decisions, eliminating surprises."
+        },
+        {
+          "num": "03",
+          "title": "Technical drawing",
+          "text": "Our skilled team translates your vision into meticulous plans, ensuring every dimension and detail aligns flawlessly. These technical drawings serve as the blueprint for crafting bespoke carpentry interiors, guaranteeing a seamless transition from concept to reality."
+        },
+        {
+          "num": "04",
+          "title": "Production",
+          "text": "From cutting-edge machinery to hands-on craftsmanship, our production team brings your vision to life, creating functional and beautiful pieces that stand as a testament to our commitment to excellence."
+        },
+        {
+          "num": "05",
+          "title": "Installation",
+          "text": "With precision and care, we transform your vision into reality, leaving you with a finished product that enhances the beauty and functionality of your home or business. Experience the satisfaction of a hassle-free installation, where every detail is meticulously attended to, bringing your dream space to life."
+        }
+      ]
+    }
+  }
+}
