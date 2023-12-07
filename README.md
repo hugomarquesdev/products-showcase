@@ -11,6 +11,7 @@ Website / Webapp designed to showcase a variety of products using Gatsby.
 - Background Animations
 - Image Markers
 - Multi-Step Form
+- Slideshow
 
 ## Technologies Used
 
