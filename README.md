@@ -6,7 +6,7 @@ Website / Webapp designed to showcase a variety of products using Gatsby.
 
 ## Features
 
-- Slideshow
+- Carousel
 - Scroll Animations
 - Background Animations
 - Image Markers
