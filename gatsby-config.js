@@ -80,7 +80,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
-        id: "GTM-M6NXFDQ",
+        id: "GTM-9999999",
         includeInDevelopment: false,
         defaultDataLayer: {
           platform: "gatsby",
@@ -90,7 +90,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingIds: ["UA-33769392-1"],
+        trackingIds: ["UA-99999999-1"],
         gtagConfig: {
           anonymize_ip: true,
           cookie_expires: 0,
